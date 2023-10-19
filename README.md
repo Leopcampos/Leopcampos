@@ -4,6 +4,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leopcampos&theme=transparent&show_icons=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leopcampos&layout=compact&theme=transparent"/>
 </div>
+<br><br>
 ## Experiência com as seguintes linguagens, bibliotecas e frameworks:
 <div style="display: inline-block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="60"></img>

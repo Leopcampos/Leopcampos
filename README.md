@@ -6,7 +6,7 @@
 
  
 
-### Desenvolvedor de software | C# | ASP .NET CORE | JavaScript | React | HTML | CSS
+### Desenvolvedor de software | C# | .NET | Maui | Blazor | JavaScript | React | Angular
 
  
 

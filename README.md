@@ -13,9 +13,8 @@
 ### Graduado em Análise e Desenvolvimento de Sistemas pela universidade Anhanguera Educacional.
 
  
-
-## Meu Linkedin:
 <div style="display: inline-block">
+## Meu Linkedin:
 <a href="https://www.linkedin.com/in/leo-campos-a6113534/" target="_blank">
 <img align="center" alt="leonardo-linkedin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>

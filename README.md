@@ -48,5 +48,5 @@
 
 ## Projetos
 <div>
-<a href="[https://dogs-khaki.vercel.app/](https://leopcampos.github.io/Curriculo/)">Currículo Online</a>
+<a href="https://leopcampos.github.io/Curriculo/">Currículo Online</a>
 </div>

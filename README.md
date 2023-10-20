@@ -46,7 +46,7 @@
 
 <hr/>
 
-## Projetos:
+## Projetos
 <div>
 <h3>Currículo Online</h3>
 <a href="[https://dogs-khaki.vercel.app/](https://leopcampos.github.io/Curriculo/)"></a>

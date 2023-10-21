@@ -15,7 +15,7 @@ Sou bem comunicativo o que me ajuda bastante a trabalhar em equipe. Adoro novos 
 
  
 <div style="display: inline-block">
-## Meu Linkedin:
+Meu Linkedin:
 <a href="https://www.linkedin.com/in/leo-campos-a6113534/" target="_blank">
 <img align="center" alt="leonardo-linkedin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>

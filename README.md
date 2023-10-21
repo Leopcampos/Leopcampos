@@ -2,7 +2,9 @@
 
  
 
-## Prazer, me chamo Leonardo e sou um apaixonado por tecnologia. Em 2019 comecei meus estudos em programação, cursei Análise e Desenvolvimento de Sistemas na Estácio, e desde lá venho aperfeiçoando minhas Skills de desenvolvedor. Sou bem comunicativo o que me ajuda bastante a trabalhar em equipe. Adoro novos desafios e sempre disposto a aprender e compartilhar conhecimento.
+## Prazer, me chamo Leonardo e sou um apaixonado por tecnologia.
+Em 2019 comecei meus estudos em programação, cursei Análise e Desenvolvimento de Sistemas na Estácio, e desde lá venho aperfeiçoando minhas Skills de desenvolvedor.
+Sou bem comunicativo o que me ajuda bastante a trabalhar em equipe. Adoro novos desafios e sempre disposto a aprender e compartilhar conhecimento.
 
  
 

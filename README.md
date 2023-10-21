@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo! 👋
+### Fala pessoal, sejam bem-vindos! 👋
 
 
 Prazer, me chamo Leonardo e sou um apaixonado por tecnologia.

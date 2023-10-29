@@ -55,10 +55,3 @@ Meu Linkedin:
 <div>
 <a href="https://leopcampos.github.io/Curriculo/">Currículo Online</a>
 </div>
-
-
-
-
-
-
-teste

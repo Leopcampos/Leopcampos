@@ -11,7 +11,7 @@ Sou bem comunicativo o que me ajuda bastante a trabalhar em equipe. Adoro novos 
 
  
 
-### Graduado em Análise e Desenvolvimento de Sistemas pela universidade Anhanguera Educacional.
+### Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
 
  
 <div style="display: inline-block">

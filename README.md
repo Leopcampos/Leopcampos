@@ -13,6 +13,8 @@ Sou bem comunicativo o que me ajuda bastante a trabalhar em equipe. Adoro novos 
 
 ### Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
 
+### Recentemente iniciei a Pós Tech em Arquitetura de Sistemas .NET pela FIAP.
+
  
 <div style="display: inline-block">
 Meu Linkedin:
